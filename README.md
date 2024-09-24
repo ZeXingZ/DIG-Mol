@@ -61,3 +61,12 @@ We also provide pre-trained DIGNN models, which can be found in `model.pth` and 
 
 - PyTorch implementation of SimCLR: [https://github.com/sthalles/SimCLR](https://github.com/sthalles/SimCLR)
 - Strategies for Pre-training Graph Neural Networks: [https://github.com/snap-stanford/pretrain-gnns](https://github.com/snap-stanford/pretrain-gnns)
+## Citation
+If you are interested in our work or use the code in your research, please cite the following article:
+@article{zhao2024dig,
+  title={DIG-Mol: A Contrastive Dual-Interaction Graph Neural Network for Molecular Property Prediction},
+  author={Zhao, Zexing and Shi, Guangsi and Wu, Xiaopeng and Ren, Ruohua and Gao, Xiaojun and Li, Fuyi},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2024},
+  publisher={IEEE}
+}
